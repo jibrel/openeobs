@@ -9,7 +9,4 @@ Before this pull request can be accepted the following must be true.
 - [ ] At least 1 ship-it squirrel obtained from another developer.
 
 If you are a BJSS contributor there are some additional conditions.
-- [ ] There are no bugs against the JIRA issues in the current sprint.
-- [ ] The *Pull Request* field in the work tab of the JIRA issue is populated.
-- [ ] An AWS instance has been created for test.
-- [ ] At least 1 ship-it squirrel obtained from a tester.
+- [ ] [Definition of done](https://kepler.bjss.com/display/EOBS/Definition+of+Done) is met.
